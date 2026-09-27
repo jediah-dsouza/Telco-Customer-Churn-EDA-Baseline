@@ -227,7 +227,6 @@ Telco-Customer-Churn-EDA-Baseline/
 * **Matplotlib** — data visualization
 * **Seaborn** — exploratory visualization
 * **Scikit-learn** — baseline classification
-* **Jupyter Notebook** — interactive analysis
 
 ---
 
