@@ -289,25 +289,6 @@ It does not include:
 
 These would be natural next steps for a subsequent churn prediction project.
 
----
-
-## Future Improvements
-
-Potential extensions include:
-
-1. Feature engineering and encoding of categorical variables.
-2. Train/test splitting with stratification.
-3. Logistic Regression as an interpretable baseline.
-4. Decision Tree and Random Forest models.
-5. Gradient boosting models.
-6. Class-weighting or resampling strategies.
-7. ROC-AUC and Precision-Recall analysis.
-8. Cross-validation and hyperparameter tuning.
-9. Feature importance and model interpretation.
-10. Comparison of multiple classification approaches.
-
----
-
 ## Project Outcome
 
 This analysis establishes a clear statistical and modeling foundation for the Telco Customer Churn problem.
